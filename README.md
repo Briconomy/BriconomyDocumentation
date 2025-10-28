@@ -81,10 +81,6 @@ We affirm that we have each contributed meaningfully to the completion of the pr
 | Jordan Mosselson | ST10270629 | ST10270629@vcconnect.edu.za |
 | Matthew Hubbard | ST10301544 | ST10301544@vcconnect.edu.za |
 | Max Day | ST10322238 | ST10322238@vcconnect.edu.za |
-
-**Signatures:**  
-Each member has contributed meaningfully and accepts joint responsibility for the authenticity and integrity of the project.
-
 ---
 
 ##  Scrum Artifacts
