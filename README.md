@@ -48,6 +48,33 @@ Spellcheck and grammar was checked by Grammarly. Figma was used in the design of
 
 [9] Refactoring Guru, “Strategy,” Refactoring.guru, 2014. https://refactoring.guru/design-patterns/strategy
 
+DECLARATION OF AUTHENTICITY
+We, the undersigned, hereby declare that the work submitted in this project is our own, completed collaboratively as a group. All sources of information, ideas, and assistance have been acknowledged and referenced appropriately. This project has not been submitted previously, in whole, for any assessment at this or any other institution.
+We affirm that we have each contributed meaningfully to the completion of the project and accept joint responsibility for the authenticity and integrity of the work presented.
+Group Members:
+•	Jaiyesh Pillay – ST10292436 – ST10292436@vcconnect.edu.za
+•	Tashil Koseelan – ST10339603 – ST10339603@vcconnect.edu.za
+•	Jordan Mosselson – ST10270629 – ST10270629@vcconnect.edu.za
+•	Matthew Hubbard – ST10301544 – ST10301544@vcconnect.edu.za
+•	Max Day – ST10322238 – ST10322238@vcconnect.edu.za
+Signatures: The contributes to this project.
+
+Scrum Artifacts
+Scrum Agile Board URL:  https://sharing.clickup.com/90121238679/b/h/2kxu9y4q-612/0c461acd7458d93 (original)
+
+https://sharing.clickup.com/90121238679/b/h/4-90125224062-2/a6082db52cca613 (updated)
+
+ClickUp RoadMap URL: https://sharing.clickup.com/90121238679/l/h/6-901212837470-1/4a5c577432bebb9 
+
+ClickUp Sprint URL: https://sharing.clickup.com/90121238679/b/h/4-90125224062-2/a6082db52cca613 
+
+Other Links:
+GitHub Repository URL: https://github.com/Briconomy  
+
+Code Quality URL (SONARQUBE): https://sonarcube.samsaraserver.space/ 
+
+Security Report URL (Snyk): https://github.com/Briconomy/Briconomy-app/actions 
+
 
 Peer Review
 The team cooperated very well throughout the duration of this project. From beginning to end, there were no disagreements, issues, or fights with the team members. Every member contributed equally, showing commitment, responsibility, and respect for ideas and input from one another. We all worked incredibly hard, working countless hours to fine-tune and polish the material to achieve a top-grade product.
