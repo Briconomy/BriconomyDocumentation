@@ -26,3 +26,9 @@ Spellcheck and grammar was checked by Grammarly. Figma was used in the design of
 [7] GeeksforGeeks, “Software Design Patterns Tutorial,” GeeksforGeeks, Dec. 05, 2023. https://www.geeksforgeeks.org/system-design/software-design-patterns/
 [8] Sahaj, “React Design Patterns: Instance Hook Pattern,” iamsahaj.xyz, Sep. 15, 2024. https://iamsahaj.xyz/blog/react-instance-hook-pattern/ 
 [9] Refactoring Guru, “Strategy,” Refactoring.guru, 2014. https://refactoring.guru/design-patterns/strategy
+
+
+Peer Review
+The team cooperated very well throughout the duration of this project. From beginning to end, there were no disagreements, issues, or fights with the team members. Every member contributed equally, showing commitment, responsibility, and respect for ideas and input from one another. We all worked incredibly hard, working countless hours to fine-tune and polish the material to achieve a top-grade product.
+The team communication was productive and fluid, allowing us to be on the same platform all along. Every team member was highly proactive in completing tasks, assisting wherever possible, and ensuring deadlines were met without hassle. The flow of work was smooth, and task allocation was evenly distributed, resulting in an even workload.
+In general, the group environment was extremely positive with no grievances or issues regarding anyone's contribution or dedication. Everyone had a crucial part to play in satisfying our overall objectives, and the cooperation exhibited can be termed seamless and collaborative. This project exactly portrayed the essence of teamwork since everyone collaborated very energetically and harmoniously to deliver the final product.
