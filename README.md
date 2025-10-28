@@ -1,3 +1,6 @@
+# Contributors
+
+<table align="center"> <tr> <td align="center"> <a href="https://github.com/JMosselson"> <img src="https://github.com/JMosselson.png" width="100px" alt="Jordan Mosselson"/> <br /> Jordan Mosselson </a> </td> <td align="center"> <a href="https://github.com/MatthewHubbard123"> <img src="https://github.com/MatthewHubbard123.png" width="100px" alt="Matthew"/> <br /> Matthew </a> </td> <td align="center"> <a href="https://github.com/Max0xDay"> <img src="https://github.com/Max0xDay.png" width="100px" alt="Max Day"/> <br /> Max Day </a> </td> <td align="center"> <a href="https://github.com/SharDai"> <img src="https://github.com/ShortJai.png" width="100px" alt="Jaiyesh Pillay"/> <br /> Jaiyesh Pillay </a> </td> <td align="center"> <a href="https://github.com/Tashil10"> <img src="https://github.com/Tashil10.png" width="100px" alt="Tashil"/> <br /> Tashil </a> </td> </tr> </table>
 References 
 
 [1] Saskia, Singh, “Briconomy”, 2025. [Online]. Available: https://www.canva.com/projects/Briconomy_Logo/  [Accessed: 10-August-2025].
