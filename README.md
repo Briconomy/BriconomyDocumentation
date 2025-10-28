@@ -76,7 +76,7 @@ We affirm that we have each contributed meaningfully to the completion of the pr
 
 ### Group Members
 
-<div style="font-size: 14px;">
+<div style="font-size: 15px;">
 
 | Jaiyesh Pillay | ST10292436 | ST10292436@vcconnect.edu.za |
 | Tashil Koseelan | ST10339603 | ST10339603@vcconnect.edu.za |
@@ -85,7 +85,6 @@ We affirm that we have each contributed meaningfully to the completion of the pr
 | Max Day | ST10322238 | ST10322238@vcconnect.edu.za |
 
 </div>
----
 
 ##  Scrum Artifacts
 
