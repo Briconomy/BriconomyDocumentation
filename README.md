@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/Icons/BriconomyReadMELogo.svg" alt="Briconomy Logo" width="1000"/>
+  <img src="BriconomyReadMELogo.svg" alt="Briconomy Logo" width="1000"/>
 </div>
 
 
