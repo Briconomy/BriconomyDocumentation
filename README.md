@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="src/Icons/BriconomyReadMELogo.svg" alt="Briconomy Logo" width="1000"/>
+</div>
+
+
 <h1 align="center"> Briconomy Project Documentation</h1>
 
 ---
